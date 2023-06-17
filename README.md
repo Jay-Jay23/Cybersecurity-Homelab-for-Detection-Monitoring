@@ -1,4 +1,4 @@
-# Cybersecurity-Homelab-for-Detection-Monitoring
+# Cybersecurity Homelab For Detection & Monitoring
 
 <p>This home lab has components and tools similar to large-scale infrastructures. Although this will be at a relatively small scale, which will allow me to be able to apply the knowledge gained in a real-world large-scale/enterprise infrastructure</p>
 
