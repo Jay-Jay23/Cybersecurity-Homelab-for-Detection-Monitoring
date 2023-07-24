@@ -19,7 +19,9 @@
 
 
 ## VMware Workstation/ VM Virtual box setup
-- jjn
+- VMware Workstation is a line of Desktop Hypervisor products which lets users run virtual machines, containers and Kubernetes clusters, go throw the following turtorial [VMware Setup](https://www.youtube.com/watch?v=Yc13ixD87G4&pp=ygURaW5zdGFsbGluZyB2bXdhcmU%3D) to get started
+- VirtualBox is also a free and feature-rich alternative Hypervisor from Oracle. If you cannot afford the VMware license, VirtualBox is equally good. [Virtual box Setup](https://www.youtube.com/watch?v=-vnQOBRn8BA&pp=ygUjaW5zdGFsbGluZyB2aXJ0dWFsYm94IG9uIHdpbmRvd3MgMTA%3D)
+- Both setup are beginner friendly even and will allow you to have a hypervisor ready 
 
 ## Setting up Kali Linux as an attack machine
 
