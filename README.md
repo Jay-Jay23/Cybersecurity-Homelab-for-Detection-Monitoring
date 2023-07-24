@@ -26,16 +26,17 @@
 ## Setting up Kali Linux as an attack machine
 - Kali Linux will be used as an attack machine to propagate different forms of offensive actions against our Active Directory and the other machines attached to it.
 - Go to the [official Kali website](https://www.kali.org/get-kali/#kali-platforms) to download a pre built image, allowing for kali linux install without altering the host OS and pick the image based on your installed hypervisor
-<img src="" alt="kali download">
+<img src="https://github.com/Jay-Jay23/Cybersecurity-Homelab-for-Detection-Monitoring/blob/main/images/Get%20Kali.png" alt="kali download">
 
 - After downloading the VM file, all you’ll need to do is to click on the .vmx file from the Kali Folder you downloaded and it will automatically load up the default Kali image in VMware.
-<img src="" alt="kali download">
+<img src="https://github.com/Jay-Jay23/Cybersecurity-Homelab-for-Detection-Monitoring/blob/main/images/kali%20setup.png" alt="kali download">
 
 - After powering on, use this command to change the default password to a more secure one of your choice:
 > passwd
+<img src="https://github.com/Jay-Jay23/Cybersecurity-Homelab-for-Detection-Monitoring/blob/main/images/kali%20login.png" alt="kali login">
 
-<img src="" alt="kali login">
 - Then Kali machine is ready for use.
+
 ## Setting up Windows 10 
 
 ## Setting a Windows Server as a Domain Controller
