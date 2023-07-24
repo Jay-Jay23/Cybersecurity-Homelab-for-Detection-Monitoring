@@ -4,7 +4,7 @@
 
 # Network Topology
 
-<img src"" alt="topology">
+<img src="https://github.com/Jay-Jay23/Cybersecurity-Homelab-for-Detection-Monitoring/blob/main/images/network%20topology.png" alt="topology">
 
 # Content
 <ul>
